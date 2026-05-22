@@ -7,4 +7,4 @@ def sub(a, b):
 
 
 def mut(a: int, b: int) -> int:
-    return "wrong type"
+    return a * b

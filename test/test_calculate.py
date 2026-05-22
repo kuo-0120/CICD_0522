@@ -10,4 +10,4 @@ def test_sub_func():
 
 
 def test_mut_func():
-    assert mut(1, 2) == 3
+    assert mut(2, 3) == 6
